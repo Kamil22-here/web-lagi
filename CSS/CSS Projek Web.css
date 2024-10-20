@@ -1,0 +1,237 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+            /*start header*/
+header{
+    background-color: #00963a;
+    color: white;
+    padding: 1em 0;
+    height: 13em;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin: auto;
+}
+            /*finish header*/
+
+            /*start nav*/
+nav{
+    padding: 1em;
+    background-color: #05b147;
+}
+
+nav ul{
+    list-style: none;
+    padding: 0;
+    text-align: right;
+    padding-right: 6em;
+}
+
+nav ul li{
+    display: inline;
+    color: white;
+    padding: 1em;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+            /*finish nav*/
+
+            /*start main umum*/
+main{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h2{
+    color: #00963a;
+    font-size: xx-large;
+}
+
+h3{
+    color: #00963a;
+    font-size: x-large;
+}
+
+.kembali{
+    background-color: #00963a;
+    text-decoration: none;
+    border-radius: 20px;
+    display: inline-block;
+    padding: 1%;
+    margin: 1%;
+    width: 10%;
+    text-align: center;
+}
+
+.h4-kembali{
+    color: white;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+            /*finish main umum*/
+
+            /*start footer*/
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+            /*finish footer*/
+
+
+
+
+
+            /*start beranda*/
+.kepsek{
+    height: 35em;
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+            /*finish beranda*/
+
+            /*start visi misi*/
+.vismis{
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+            /*finish main umum*/
+
+            /*start keunggulan*/
+.sec-card{overflow: hidden;}
+
+.container-card{
+    width: 95%;
+    height: 40%;
+    margin: 2%;
+}
+
+.h2-keunggulan{
+    color: white;
+    margin: auto;
+}
+
+.card-button{
+    background-color: #00963a;
+    text-decoration: none;
+    border-radius: 30px;
+    display: inline-block;
+    padding: 5%;
+    margin: 3%;
+    width: 20%;
+}
+            /*finish keunggulan*/
+
+            /*start unggulan dan humas*/
+.img-unggul{transition: width 2s, height 2s;}
+
+.img-unggul:hover{
+    width: 40%;
+    height: 20%;
+}
+
+.img-humas{transition: width 2s, height 2s;}
+
+.img-humas:hover{
+    width: 26%;
+    height: 16%;
+}
+            /*finish unggulan dan humas*/
+
+            /*start ekskul*/
+.Ekskul{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+            /*finish ekskul*/
+
+            /*start ppdb*/
+.online{
+    background-color: #00963a;
+    text-decoration: none;
+    border-radius: 20px;
+    display: inline-block;
+    padding: 1%;
+    margin: 1%;
+    width: 15%;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+.ppdb-klik{
+    background-color: #00963a;
+    text-decoration: none;
+    border-radius: 20px;
+    display: inline-block;
+    padding: 1%;
+    margin: 1%;
+    width: 15%;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+            /*finish ppdb*/
+
+            /*start galeri*/
+.galeri{border-radius: 25px;}
+            /*finish galeri*/
+
+            /*start lokasi*/
+iframe{transition: width 2s, height 2s;}
+
+iframe:hover{
+    width: 770px;
+    height: 770px;
+}
+
+img.maphowafayou{vertical-align: text-bottom;}
+
+a.kontak p:hover{
+    color: #00963a;
+    font-size: large;
+}
+
+img.ig{vertical-align: sub;}
+            /*finish lokasi*/
+
+            /*start informasi*/
+a i{
+    color: white;
+    text-decoration: none;
+}
+
+i:hover{
+    color: rgb(34, 34, 34);
+}
+
+.atas{
+    font-size: x-large;
+}
+
+.bawah{
+    font-size: large;
+}
+
+.lembaga{
+    text-decoration: none;
+    color: white;
+}
+
+.lembaga:hover{
+    color: rgb(34, 34, 34);
+}
+
+a.kontak-assalaam p:hover{
+    color: rgb(34, 34, 34);
+}
+            /*finish informasi*/
